@@ -1,6 +1,18 @@
+
+
+123
+
+
 # Building Java Projects with Maven
 
-jdjdjjdjdjdjdjdjdjdjdjdjdjdjdjdjdjdjd
+
+
+
+
+I love linux 
+
+
+
 #### Create the directory structure
 ---
 + Create a root project directory named `HelloWorldMaven` and `cd HelloWorldMaven`.
